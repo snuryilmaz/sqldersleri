@@ -1,0 +1,14 @@
+DATA MANIPULATION COMMANDS
+Operations are performed on data with these commands.
+- SELECT: Retrieves records from database tables.
+- UPDATE : Updates or modifies one or more fields of a record in a table.
+- DELETE : Deletes a record from a table
+- INSERT : Adds a new record to the table
+- TRUNCATE : Empties the table's data
+--------------------------------------------------------------------------------------
+DATABASE MANIPULATION COMMANDS
+Allows us to make changes to database objects
+- CREATE : Creates a database object
+- ALTER : Changes the properties of the database object
+- DROP : Deletes a database object
+--------------------------------------------------------------------------------------
